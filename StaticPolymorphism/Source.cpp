@@ -1,7 +1,7 @@
 #include "Monsters.h"
 #include <iostream>
 #include <string>
- 
+   
 using namespace std;
 
 Monster myMonster;
